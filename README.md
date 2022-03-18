@@ -1,4 +1,4 @@
-![Picutre of myself](path"This is me from about 2 years ago")
+![Picutre of myself](20210228_214434.jpg"This is me from about 2 years ago")
 
 # Hello, My name is Tyler McArthur
 This is a standalone page designed to facilitate movement through various other pages that will give greater details about myself.
