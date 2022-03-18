@@ -1,5 +1,4 @@
-![Picutre of myself](20210228_214434.jpg"This is me from about 2 years ago")
-
+<img src="20210228_214434.jpg" alt="picture of myself" style="height: 100px; width:100px;"/>
 # Hello, My name is Tyler McArthur
 This is a standalone page designed to facilitate movement through various other pages that will give greater details about myself.
 
