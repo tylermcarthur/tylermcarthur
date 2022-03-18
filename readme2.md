@@ -1,6 +1,6 @@
 
-# Hello, My name is Tyler McArthur
-This is a standalone page designed to facilitate movement through various other pages that will give greater details about myself.
+# This is the introduction of myself 
+*Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla porttitor tortor non consequat varius. Ut pharetra nunc id dolor gravida faucibus. Aenean iaculis porttitor ligula, eget porttitor ante dignissim sed. Vestibulum efficitur fermentum turpis non molestie. Donec blandit neque nisl, vitae bibendum neque tristique at. Nulla quis faucibus tellus. Mauris ut felis ut nunc rhoncus hendrerit a vitae ligula. Pellentesque ut auctor risus. Cras eu lobortis justo. Proin faucibus accumsan blandit. Etiam in tortor sed lectus cursus eleifend.*
 
 ## The links to these other pages and what they have are as follows:
 
