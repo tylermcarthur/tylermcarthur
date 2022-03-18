@@ -1,3 +1,5 @@
+![Picutre of myself](path"This is me from about 2 years ago")
+
 # Hello, My name is Tyler McArthur
 This is a standalone page designed to facilitate movement through various other pages that will give greater details about myself.
 
