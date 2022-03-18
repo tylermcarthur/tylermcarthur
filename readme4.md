@@ -17,4 +17,4 @@ No skills worth mentions, zero,zip,zilch,nada
 
 
 ----------------------------------------------
-- [Dont click me](https://www.youtube.com/watch?v=dQw4w9WgXcQ "Warning you")
+- [Dont click me](https://www.youtube.com/watch?v=dQw4w9WgXcQ "Warning you") <img src="https://media.istockphoto.com/photos/yellow-background-with-black-grunge-danger-sign-picture-id1163744382?k=20&m=1163744382&s=612x612&w=0&h=jM9nrlT8ELvXEWwsB6vA8gwGc3xPC-RHdosyagPixfc=" alt="DANGER" style="height: 50px; width:100px;"/>
