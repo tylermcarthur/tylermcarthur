@@ -1,6 +1,5 @@
 
-# Hello, My name is Tyler McArthur
-This is a standalone page designed to facilitate movement through various other pages that will give greater details about myself.
+No skills worth mentions, zero,zip,zilch,nada
 
 ## The links to these other pages and what they have are as follows:
 
