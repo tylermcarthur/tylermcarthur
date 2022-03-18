@@ -1,7 +1,9 @@
-
-# Hello, My name is Tyler McArthur
-This is a standalone page designed to facilitate movement through various other pages that will give greater details about myself.
-
+# If you actually care about contacting me then heres a couple links:
+ - [LinkedIn](https://www.linkedin.com/in/tyler-mcarthur-020677207/)
+ - email me at tylermcarthur@yahoo.com
+ - or at tylermacrthur@gmail.com
+ - call or leave me a message at 314-278-4398
+  
 ## The links to these other pages and what they have are as follows:
 
   
