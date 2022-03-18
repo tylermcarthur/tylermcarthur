@@ -1,10 +1,6 @@
-- 👋 Hi, I’m @tylermcarthur
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- [Next page](google.com "Reach out to me")
-<!---
-tylermcarthur/tylermcarthur is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+# Hello, My name is Tyler McArthur
+- [First page](google.com "Reach out to me")
+- [Second page](google.com "Reach out to me")
+- [Third page](google.com "Reach out to me")
+- [Fourt page](google.com "Reach out to me")
+- [Fifth page](google.com "Reach out to me")
